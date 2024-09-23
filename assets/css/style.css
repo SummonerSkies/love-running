@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     /* generic project styles */
     color: #3a3a3a;
+    font-family: "Lato", sans-serif;
 }
 
 /* Header */
@@ -33,8 +34,4 @@ main {
 footer {
     background-color: orange;
 
-}
-
-h1 {
-    font-family: "Oswald", sans-serif;
 }
